@@ -1,12 +1,12 @@
 //-------------------------------------------------------------------------//
-//  Module GW2 event Timer pour Nuked-KlaN - PHP Portal                    //
+//  Module GW2 event Timer pour Nuked-KlaN 1.7.9 - PHP Portal              //
 //  http://www.reddfonce.fr/                                               //
-//  Développé par Moon                                                     //
+//  Dï¿½veloppï¿½ par Moon                                                    //
 //-------------------------------------------------------------------------//
 
 
-Pré-requis:
--Le php.ini doit être sur la bonne timezone
+Prï¿½-requis:
+-Le php.ini doit ï¿½tre sur la bonne timezone
 	[Date]
 	; Defines the default timezone used by the date functions
 	; http://php.net/date.timezone
